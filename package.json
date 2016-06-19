@@ -1,0 +1,30 @@
+{
+  "name": "requestheaderparser",
+  "version": "1.0.0",
+  "description": "Request header parser service ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshdh/request-header-parser.git"
+  },
+  "keywords": [
+    "request",
+    "header",
+    "parser",
+    "node",
+    "js",
+    "freecodecamp"
+  ],
+  "author": "rajesh dhiman @paharihacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshdh/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/rajeshdh/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
